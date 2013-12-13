@@ -1,0 +1,9 @@
+input {
+    display: block;
+}
+
+.preview {
+    max-width: 200px;
+    max-height: 200px;
+    margin-right: 10px;
+}
